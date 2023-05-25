@@ -1,5 +1,0 @@
----
-mysql_port: 3306
-dbname: expdb
-dbuser: root
-dbpassword:
