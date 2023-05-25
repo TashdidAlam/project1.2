@@ -1,0 +1,11 @@
+---
+- name: DB Service
+  hosts: db
+  become: yes 
+  roles:
+    - db
+- name: Web Service
+  hosts: web
+  become: yes
+  roles:
+    - web
