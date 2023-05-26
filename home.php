@@ -272,7 +272,7 @@
         <div class="row">
           <div class="banner-text text-center">
             <div class="text-border">
-              <h2 class="text-dec">Learn To Code</h2>
+              <h2 class="text-dec">Learn Code</h2>
             </div>
             <div class="intro-para text-center quote">
               <p class="big-text">First you Learn ,then you remove the 'L'</p>
